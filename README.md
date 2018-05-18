@@ -1,2 +1,2 @@
 # aurelia-fontawesome
-This is a custom element plugin for using fontawesome 5 in aurelia apps 
+An Aurelia plugin that creates a custom-element for fontawesome
