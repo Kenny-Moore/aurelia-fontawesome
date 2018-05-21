@@ -12,16 +12,16 @@ Shorthand that assumes a prefix of `fas`:
 <fa-icon icon="spinner"></fa-icon>
 ```
 
-Explicit prefix:
+Explicit prefix: (note that .bind is not necessary even though we are using an array)
 
-```javascript
-<fa-icon icon="['far', 'spinner']"></fa-icon>
-```
-or
 ```javascript
 <fa-icon icon.bind="['far', 'spinner']"></fa-icon>
 ```
-(note that .bind is not necessary even though we are using an array)
+or
+```javascript
+<fa-icon icon="['far', 'spinner']"></fa-icon>
+```
+
 
 
 
