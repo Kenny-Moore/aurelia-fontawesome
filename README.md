@@ -24,6 +24,7 @@ or
 (note that .bind is not necessary even though we are using an array)
 
 
+
 Explicit icon definition (this is pseudo-code, see examples below for more detail):
 
 ```javascript
